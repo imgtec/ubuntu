@@ -1,0 +1,8 @@
+#!/bin/bash
+# ubuntu 12.04.4 setup
+
+apt-get install bridge-utils
+apt-get install vim
+apt-get install traceroute
+apt-get install git
+apt-get install exuberant-ctags
