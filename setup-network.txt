@@ -2,6 +2,5 @@
 
 sudo apt-get install vlan
 sudo apt-get install bridge-utils
-sudo apt-get install vtund
-sudo apt-get install ddclient
-
+sudo apt-get install vtund 
+sudo apt-get install pptp-linux
