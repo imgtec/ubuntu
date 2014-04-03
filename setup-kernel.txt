@@ -6,3 +6,5 @@ sudo apt-get install vim
 sudo apt-get install traceroute
 sudo apt-get install git
 sudo apt-get install exuberant-ctags
+sudo apt-get install libncurses-dev 
+
