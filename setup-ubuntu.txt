@@ -8,3 +8,5 @@ sudo apt-get install screen
 sudo apt-get install lrzsz
 
 sudo apt-get install make
+sudo apt-get install bc
+
