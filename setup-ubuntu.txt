@@ -10,3 +10,6 @@ sudo apt-get install lrzsz
 sudo apt-get install make
 sudo apt-get install bc
 
+sudo apt-get install gcc -y
+sudo apt-get install build-essential -y
+
