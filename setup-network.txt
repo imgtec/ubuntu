@@ -1,8 +1,11 @@
 #!/bin/sh
 
-sudo apt-get install vlan
-sudo apt-get install bridge-utils
+sudo apt-get install vlan -y
+sudo apt-get install bridge-utils -y
 sudo apt-get install vtund 
 sudo apt-get install pptp-linux
 sudo apt-get install autossh
 sudo apt-get install ifenslave-2.6
+sudo apt-get install traceroute -y
+sudo apt-get install ddclient
+

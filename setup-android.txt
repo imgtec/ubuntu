@@ -1,14 +1,12 @@
 #!/bin/bash
 # setup Android building
 
-sudo apt-get build-essential
-sudo apt-get gperf
+sudo apt-get install build-essential
+sudo apt-get install gperf
 sudo apt-get install lib32stdc++6
 sudo apt-get install libstdc++6
 sudo apt-get install gcc-multilib
-sudo apt-get install unzip
 sudo apt-get install ia32-libs
-sudo apt-get install zip
 sudo apt-get install flex
-sudo apt-get install g++ 
+sudo apt-get install g++
 sudo apt-get install gperf

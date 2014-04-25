@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 # ubuntu 12.04.4 setup
 
 sudo apt-get install exuberant-ctags
@@ -14,4 +14,5 @@ sudo apt-get install gcc -y
 sudo apt-get install build-essential -y
 
 sudo apt-get install unzip
+sudo apt-get install zip
 

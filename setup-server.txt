@@ -1,4 +1,5 @@
-sudo apt-get install nfs-kernel-server
-sudo apt-get install tftpd-hpa 
-sudo apt-get install samba
+#!/bin/bash
+sudo apt-get install nfs-kernel-server -y
+sudo apt-get install tftpd-hpa -y
+sudo apt-get install samba -y
 

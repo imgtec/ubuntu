@@ -1,10 +1,8 @@
 #!/bin/bash
 # ubuntu 12.04.4 setup
 
-sudo apt-get install bridge-utils
-sudo apt-get install vim
-sudo apt-get install traceroute
-sudo apt-get install git
-sudo apt-get install exuberant-ctags
-sudo apt-get install libncurses-dev 
+sudo apt-get install vim -y
+sudo apt-get install git -y
+sudo apt-get install exuberant-ctags -y
+sudo apt-get install libncurses-dev -y
 

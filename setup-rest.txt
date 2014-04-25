@@ -1,5 +1,5 @@
-#!/bin/sh
+#!/bin/bash
 
-sudo apt-get autoremove nano 
-sudo apt-get install ddclient
+sudo apt-get autoremove nano -y
+sudo apt-get install zlib1g-dev
 
