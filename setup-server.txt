@@ -2,4 +2,5 @@
 sudo apt-get install nfs-kernel-server -y
 sudo apt-get install tftpd-hpa -y
 sudo apt-get install samba -y
+sudo apt-get install inetutils-ftpd
 
