@@ -1,2 +1,5 @@
-apt-get install gawk
+#!/bin/bash
+# ubuntu 12.04.4 setup
+
+sudo apt-get install gawk -y
 
