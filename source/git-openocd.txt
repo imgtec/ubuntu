@@ -1,0 +1,8 @@
+#!/bin/bash
+
+
+ OPENOCD="git://repo.or.cz/openocd.git"
+#OPENOCD="http://repo.or.cz/openocd.git"
+
+
+git clone $OPENOCD
