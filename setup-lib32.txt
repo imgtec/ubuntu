@@ -1,0 +1,5 @@
+#!/bin/bash
+# ubuntu 12.04.4 setup
+
+sudo apt-get install lib32stdc++6 -y
+
