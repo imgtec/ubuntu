@@ -6,3 +6,6 @@ sudo apt-get install libtool -y
 sudo apt-get install automake -y
 sudo apt-get install libusb-1.0-0-dev -y
 sudo apt-get install nautilus-open-terminal
+
+sudo dpkg-reconfigure dash
+
