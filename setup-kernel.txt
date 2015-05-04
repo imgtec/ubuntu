@@ -3,6 +3,7 @@
 
 sudo apt-get install vim -y
 sudo apt-get install git -y
+sudo apt-get install git-email
 sudo apt-get install exuberant-ctags -y
 sudo apt-get install libncurses-dev -y
 sudo apt-get install u-boot-tools -y
